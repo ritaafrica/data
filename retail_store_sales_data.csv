@@ -1,0 +1,501 @@
+Store_ID,Region,Product_Category,Units_Sold,Revenue
+S1000,North,Electronics,86,11093.08
+S1001,North,Home & Garden,82,4153.11
+S1002,East,Beauty,40,922.75
+S1003,South,Home & Garden,34,2005.95
+S1004,South,Clothing,92,3442.57
+S1005,South,Beauty,80,2310.3
+S1006,North,Home & Garden,110,5669.15
+S1007,North,Home & Garden,72,3798.28
+S1008,West,Beauty,85,2323.81
+S1009,North,Home & Garden,111,6247.94
+S1010,North,Beauty,49,1253.12
+S1011,North,Home & Garden,66,4567.89
+S1012,South,Electronics,80,8841.46
+S1013,South,Beauty,61,1446.98
+S1014,North,Electronics,80,9628.39
+S1015,South,Electronics,40,5130.83
+S1016,West,Home & Garden,61,3193.67
+S1017,South,Clothing,65,2957.45
+S1018,West,Electronics,133,16502.74
+S1019,East,Electronics,69,7886.11
+S1020,North,Electronics,40,4889.5
+S1021,South,Clothing,66,2896.05
+S1022,West,Clothing,105,5247.12
+S1023,East,Electronics,100,11400.36
+S1024,East,Clothing,87,2846.17
+S1025,South,Clothing,88,2770.33
+S1026,South,Clothing,81,2709.7
+S1027,East,Beauty,49,1679.1
+S1028,North,Electronics,90,11695.07
+S1029,North,Clothing,76,3511.98
+S1030,West,Beauty,89,3502.26
+S1031,North,Home & Garden,89,6206.1
+S1032,East,Home & Garden,80,5068.54
+S1033,East,Clothing,79,3491.07
+S1034,East,Electronics,57,6897.0
+S1035,North,Clothing,81,2900.39
+S1036,West,Home & Garden,56,3135.95
+S1037,North,Electronics,62,7015.31
+S1038,West,Electronics,79,9811.11
+S1039,North,Home & Garden,102,6528.45
+S1040,East,Beauty,68,1596.76
+S1041,East,Beauty,31,844.13
+S1042,South,Clothing,65,2241.51
+S1043,North,Electronics,60,7782.16
+S1044,North,Clothing,71,3254.73
+S1045,South,Electronics,71,8146.17
+S1046,East,Home & Garden,113,6766.49
+S1047,North,Electronics,74,8674.13
+S1048,South,Electronics,66,8015.41
+S1049,North,Home & Garden,79,4688.5
+S1050,West,Beauty,69,2736.56
+S1051,East,Home & Garden,53,2787.56
+S1052,West,Electronics,89,11363.96
+S1053,East,Home & Garden,64,3284.16
+S1054,South,Electronics,81,9555.02
+S1055,East,Beauty,83,2850.11
+S1056,East,Beauty,56,1656.1
+S1057,South,Electronics,56,6620.09
+S1058,East,Beauty,70,1973.21
+S1059,North,Home & Garden,55,3382.39
+S1060,South,Beauty,61,1372.9
+S1061,South,Clothing,65,2362.14
+S1062,South,Beauty,53,1138.61
+S1063,West,Clothing,74,2909.43
+S1064,West,Home & Garden,77,4646.73
+S1065,East,Beauty,65,1466.83
+S1066,South,Beauty,51,1865.63
+S1067,East,Beauty,41,1272.07
+S1068,North,Home & Garden,37,2284.96
+S1069,South,Home & Garden,62,4052.05
+S1070,North,Clothing,37,1205.48
+S1071,East,Electronics,92,11045.27
+S1072,West,Home & Garden,42,2829.3
+S1073,East,Beauty,94,3443.01
+S1074,North,Clothing,48,1937.38
+S1075,South,Beauty,94,2451.75
+S1076,East,Beauty,68,1580.28
+S1077,South,Home & Garden,90,6182.53
+S1078,West,Electronics,73,8359.19
+S1079,West,Beauty,124,4829.76
+S1080,West,Home & Garden,66,3984.95
+S1081,South,Clothing,54,1926.77
+S1082,East,Beauty,82,1769.33
+S1083,South,Clothing,79,2680.16
+S1084,South,Home & Garden,44,3041.59
+S1085,East,Home & Garden,88,4883.03
+S1086,West,Home & Garden,67,4187.53
+S1087,West,Home & Garden,82,5107.66
+S1088,East,Home & Garden,121,6276.1
+S1089,South,Electronics,93,11422.24
+S1090,South,Clothing,47,1966.3
+S1091,West,Electronics,63,7661.61
+S1092,North,Clothing,40,1336.96
+S1093,North,Beauty,96,3119.0
+S1094,North,Beauty,94,3575.76
+S1095,South,Clothing,67,2462.41
+S1096,South,Beauty,80,3078.29
+S1097,West,Beauty,71,1478.5
+S1098,North,Beauty,70,2609.29
+S1099,West,Electronics,91,10157.83
+S1100,West,Electronics,93,11994.3
+S1101,West,Home & Garden,89,5822.42
+S1102,East,Clothing,87,3070.5
+S1103,North,Beauty,93,2252.1
+S1104,North,Clothing,85,3522.63
+S1105,East,Home & Garden,59,3679.37
+S1106,East,Home & Garden,65,3289.37
+S1107,North,Beauty,71,2682.38
+S1108,East,Home & Garden,72,4385.63
+S1109,West,Beauty,89,2922.59
+S1110,South,Home & Garden,51,2858.14
+S1111,West,Home & Garden,86,4721.19
+S1112,North,Beauty,78,2819.46
+S1113,East,Home & Garden,47,2731.73
+S1114,South,Home & Garden,63,3721.47
+S1115,North,Home & Garden,52,3316.16
+S1116,East,Clothing,52,1724.4
+S1117,South,Electronics,56,6625.5
+S1118,South,Clothing,73,2868.09
+S1119,East,Home & Garden,70,3976.27
+S1120,South,Electronics,70,7901.14
+S1121,North,Clothing,108,5100.81
+S1122,East,Clothing,91,3311.16
+S1123,West,Clothing,66,3284.19
+S1124,North,Beauty,79,2125.69
+S1125,North,Home & Garden,85,4927.82
+S1126,East,Home & Garden,70,4564.93
+S1127,East,Electronics,68,8180.37
+S1128,South,Clothing,71,2280.78
+S1129,North,Home & Garden,21,1151.53
+S1130,South,Clothing,95,3082.79
+S1131,North,Home & Garden,88,5191.29
+S1132,North,Clothing,59,1936.24
+S1133,West,Home & Garden,90,4591.09
+S1134,North,Electronics,84,10828.25
+S1135,South,Clothing,89,4208.21
+S1136,South,Home & Garden,53,3093.22
+S1137,West,Electronics,117,15122.68
+S1138,South,Electronics,40,5121.85
+S1139,East,Home & Garden,51,3379.75
+S1140,West,Clothing,93,4526.78
+S1141,South,Beauty,102,3511.1
+S1142,South,Electronics,82,9331.33
+S1143,East,Electronics,77,8715.39
+S1144,West,Home & Garden,55,3845.57
+S1145,East,Beauty,82,2405.58
+S1146,West,Beauty,58,2179.73
+S1147,West,Beauty,62,1856.74
+S1148,North,Home & Garden,80,4144.08
+S1149,South,Clothing,98,3710.75
+S1150,South,Electronics,69,8220.98
+S1151,North,Home & Garden,83,4549.61
+S1152,East,Beauty,63,1995.01
+S1153,North,Electronics,50,5548.66
+S1154,South,Electronics,58,6706.37
+S1155,South,Beauty,72,2300.43
+S1156,North,Beauty,85,3132.84
+S1157,North,Electronics,131,16172.0
+S1158,North,Electronics,87,10067.2
+S1159,South,Clothing,79,2382.92
+S1160,North,Clothing,107,3440.04
+S1161,North,Home & Garden,63,3318.76
+S1162,East,Electronics,76,8762.0
+S1163,North,Clothing,58,2164.3
+S1164,South,Electronics,92,10861.99
+S1165,East,Beauty,91,1902.34
+S1166,West,Clothing,65,2016.5
+S1167,South,Beauty,79,2467.67
+S1168,South,Beauty,60,1635.03
+S1169,West,Beauty,72,1855.59
+S1170,South,Home & Garden,47,2713.17
+S1171,West,Beauty,64,1856.45
+S1172,West,Home & Garden,62,3781.82
+S1173,South,Electronics,90,11385.56
+S1174,North,Electronics,73,8939.93
+S1175,North,Clothing,53,2237.71
+S1176,West,Clothing,67,2182.41
+S1177,East,Home & Garden,77,3998.89
+S1178,West,Electronics,66,7752.62
+S1179,West,Clothing,94,4675.16
+S1180,West,Clothing,51,2098.99
+S1181,North,Clothing,91,3395.4
+S1182,North,Electronics,69,7789.09
+S1183,North,Clothing,94,3952.63
+S1184,West,Electronics,87,10268.41
+S1185,East,Beauty,72,1497.97
+S1186,North,Beauty,96,1994.71
+S1187,South,Beauty,67,2296.21
+S1188,South,Home & Garden,67,4427.31
+S1189,South,Electronics,57,6862.04
+S1190,West,Clothing,66,2176.6
+S1191,South,Home & Garden,78,5293.29
+S1192,West,Home & Garden,56,2956.55
+S1193,South,Beauty,82,3167.44
+S1194,East,Electronics,110,12800.77
+S1195,West,Clothing,94,3558.75
+S1196,South,Home & Garden,74,4612.42
+S1197,North,Clothing,60,2811.12
+S1198,West,Beauty,76,2422.46
+S1199,North,Electronics,67,8049.8
+S1200,North,Clothing,58,2331.27
+S1201,North,Clothing,56,2228.63
+S1202,North,Home & Garden,86,5268.23
+S1203,South,Clothing,107,4226.27
+S1204,South,Electronics,45,4964.97
+S1205,West,Electronics,115,13411.85
+S1206,West,Clothing,68,2189.06
+S1207,West,Home & Garden,66,3849.83
+S1208,South,Home & Garden,87,4885.36
+S1209,West,Beauty,84,3189.93
+S1210,North,Electronics,80,10195.36
+S1211,South,Beauty,85,2769.74
+S1212,West,Home & Garden,75,4645.36
+S1213,North,Beauty,67,1695.81
+S1214,West,Home & Garden,101,6374.29
+S1215,East,Beauty,66,2603.12
+S1216,West,Beauty,49,1546.9
+S1217,East,Electronics,80,9164.07
+S1218,West,Electronics,48,5329.3
+S1219,West,Beauty,60,1776.54
+S1220,South,Home & Garden,96,5806.53
+S1221,South,Home & Garden,55,3543.3
+S1222,East,Electronics,92,11545.28
+S1223,South,Electronics,73,8585.08
+S1224,North,Clothing,92,4271.86
+S1225,North,Electronics,71,8153.92
+S1226,East,Home & Garden,54,3318.38
+S1227,North,Electronics,83,10292.86
+S1228,North,Clothing,50,1690.78
+S1229,West,Beauty,48,1383.4
+S1230,South,Beauty,59,1674.16
+S1231,North,Home & Garden,64,3728.59
+S1232,North,Clothing,94,3203.32
+S1233,South,Beauty,85,2553.09
+S1234,North,Beauty,93,2997.35
+S1235,North,Electronics,79,9435.14
+S1236,South,Beauty,68,2513.79
+S1237,West,Home & Garden,102,6583.9
+S1238,North,Beauty,83,2831.59
+S1239,South,Home & Garden,73,4407.28
+S1240,North,Home & Garden,58,3550.63
+S1241,North,Electronics,64,8317.6
+S1242,West,Clothing,31,1226.59
+S1243,East,Home & Garden,50,2876.82
+S1244,East,Beauty,74,2895.89
+S1245,South,Beauty,69,2014.34
+S1246,East,Home & Garden,96,5823.6
+S1247,South,Beauty,60,1855.53
+S1248,East,Electronics,85,10498.98
+S1249,West,Beauty,100,3735.31
+S1250,South,Electronics,24,2966.76
+S1251,East,Home & Garden,74,4889.41
+S1252,West,Home & Garden,40,2211.49
+S1253,East,Home & Garden,86,5132.79
+S1254,North,Electronics,104,13431.26
+S1255,North,Beauty,26,665.08
+S1256,West,Electronics,99,11481.03
+S1257,North,Beauty,89,3455.84
+S1258,North,Beauty,105,4162.75
+S1259,South,Electronics,82,10284.73
+S1260,East,Clothing,99,4365.7
+S1261,South,Home & Garden,73,4657.75
+S1262,East,Beauty,60,1786.8
+S1263,North,Beauty,62,1834.96
+S1264,South,Electronics,92,11151.3
+S1265,East,Clothing,65,3164.83
+S1266,East,Home & Garden,79,5090.23
+S1267,South,Clothing,45,1609.01
+S1268,West,Home & Garden,101,6208.42
+S1269,East,Beauty,84,2592.56
+S1270,North,Beauty,65,2464.49
+S1271,East,Electronics,90,10610.16
+S1272,North,Electronics,56,6546.55
+S1273,South,Clothing,67,3045.91
+S1274,East,Clothing,74,2436.78
+S1275,North,Home & Garden,114,5795.91
+S1276,North,Electronics,101,13039.73
+S1277,South,Beauty,68,1467.48
+S1278,East,Electronics,79,10149.94
+S1279,East,Clothing,81,3492.67
+S1280,South,Electronics,51,6372.29
+S1281,East,Beauty,36,874.07
+S1282,South,Electronics,64,8099.78
+S1283,East,Clothing,102,3613.11
+S1284,West,Beauty,69,2155.58
+S1285,East,Home & Garden,66,3658.54
+S1286,North,Home & Garden,72,3757.29
+S1287,North,Beauty,66,2297.98
+S1288,West,Beauty,48,1189.71
+S1289,East,Beauty,64,1344.98
+S1290,North,Clothing,70,3367.26
+S1291,North,Beauty,84,2059.13
+S1292,East,Clothing,60,2079.4
+S1293,South,Beauty,28,616.11
+S1294,East,Clothing,119,4356.1
+S1295,South,Clothing,74,2919.16
+S1296,West,Electronics,99,12238.76
+S1297,West,Home & Garden,91,4800.19
+S1298,North,Beauty,71,2789.62
+S1299,North,Home & Garden,74,5147.31
+S1300,North,Home & Garden,57,3030.05
+S1301,South,Electronics,120,14766.94
+S1302,North,Home & Garden,56,3786.33
+S1303,East,Home & Garden,103,6129.94
+S1304,South,Beauty,107,3532.15
+S1305,West,Clothing,161,7264.03
+S1306,South,Beauty,84,2162.57
+S1307,North,Beauty,88,2262.33
+S1308,East,Home & Garden,80,4094.66
+S1309,East,Home & Garden,51,3334.1
+S1310,North,Beauty,43,1420.98
+S1311,East,Beauty,66,1626.53
+S1312,South,Home & Garden,45,2914.82
+S1313,South,Clothing,70,3290.47
+S1314,North,Clothing,94,2890.12
+S1315,East,Beauty,55,2113.62
+S1316,West,Clothing,65,2493.25
+S1317,South,Beauty,68,2499.14
+S1318,South,Electronics,87,11195.03
+S1319,South,Home & Garden,102,5174.13
+S1320,South,Beauty,44,1615.86
+S1321,West,Beauty,44,1573.41
+S1322,North,Beauty,73,1732.01
+S1323,South,Clothing,69,3103.62
+S1324,East,Beauty,54,2022.07
+S1325,West,Electronics,99,11463.14
+S1326,South,Clothing,101,3105.68
+S1327,East,Home & Garden,69,3861.78
+S1328,South,Electronics,75,9154.17
+S1329,North,Beauty,40,1542.76
+S1330,West,Electronics,76,8869.26
+S1331,North,Beauty,89,2588.74
+S1332,West,Electronics,109,13388.06
+S1333,South,Clothing,67,2712.59
+S1334,South,Beauty,85,3211.74
+S1335,West,Clothing,67,2189.83
+S1336,East,Electronics,63,7565.31
+S1337,East,Beauty,51,1298.29
+S1338,South,Home & Garden,43,2845.58
+S1339,South,Home & Garden,87,4925.39
+S1340,North,Beauty,79,2735.17
+S1341,South,Electronics,51,6271.25
+S1342,West,Home & Garden,64,4119.81
+S1343,East,Beauty,80,1622.53
+S1344,East,Home & Garden,83,4709.61
+S1345,North,Beauty,100,2590.05
+S1346,East,Electronics,79,9755.55
+S1347,East,Electronics,70,7970.43
+S1348,West,Clothing,55,2322.05
+S1349,East,Home & Garden,77,4833.64
+S1350,North,Clothing,103,3925.31
+S1351,North,Electronics,62,7350.35
+S1352,East,Beauty,64,1699.75
+S1353,South,Electronics,73,8615.22
+S1354,East,Electronics,85,9512.15
+S1355,North,Beauty,80,3170.7
+S1356,North,Clothing,52,2056.55
+S1357,West,Home & Garden,82,5634.75
+S1358,East,Electronics,79,8700.79
+S1359,East,Electronics,67,7883.99
+S1360,West,Home & Garden,106,6247.08
+S1361,North,Electronics,55,6343.69
+S1362,West,Home & Garden,109,6168.58
+S1363,South,Home & Garden,44,2712.57
+S1364,East,Home & Garden,57,3503.08
+S1365,North,Beauty,85,2144.64
+S1366,West,Clothing,61,2268.65
+S1367,North,Clothing,89,3090.62
+S1368,South,Beauty,87,2901.95
+S1369,East,Clothing,81,3183.94
+S1370,West,Clothing,71,2356.8
+S1371,North,Clothing,83,3628.88
+S1372,East,Electronics,71,9120.81
+S1373,East,Beauty,57,2152.09
+S1374,North,Clothing,78,3540.95
+S1375,East,Beauty,79,2670.66
+S1376,East,Clothing,94,4020.78
+S1377,West,Clothing,63,3075.2
+S1378,East,Beauty,91,2488.93
+S1379,West,Home & Garden,45,2448.76
+S1380,East,Beauty,47,1839.92
+S1381,South,Home & Garden,80,4765.09
+S1382,South,Electronics,78,9289.77
+S1383,West,Beauty,72,2863.93
+S1384,West,Home & Garden,77,4425.38
+S1385,South,Clothing,86,3787.34
+S1386,East,Electronics,100,12825.59
+S1387,West,Beauty,64,2249.41
+S1388,North,Home & Garden,44,2905.76
+S1389,East,Home & Garden,91,6052.6
+S1390,East,Beauty,75,2642.79
+S1391,South,Home & Garden,85,5406.58
+S1392,West,Beauty,77,2457.55
+S1393,East,Home & Garden,103,6771.98
+S1394,West,Clothing,69,2795.2
+S1395,West,Beauty,69,2108.88
+S1396,West,Beauty,87,2369.51
+S1397,South,Electronics,54,6930.62
+S1398,West,Clothing,47,1515.48
+S1399,South,Beauty,68,2487.13
+S1400,North,Home & Garden,46,3130.66
+S1401,East,Home & Garden,60,3242.59
+S1402,East,Home & Garden,74,4494.26
+S1403,North,Electronics,76,8610.1
+S1404,South,Beauty,59,2188.29
+S1405,East,Home & Garden,95,5589.5
+S1406,South,Electronics,86,10630.11
+S1407,South,Electronics,102,12682.51
+S1408,South,Beauty,56,1667.49
+S1409,North,Home & Garden,72,4894.4
+S1410,North,Clothing,99,3852.06
+S1411,South,Home & Garden,67,3424.55
+S1412,West,Clothing,80,2611.11
+S1413,North,Clothing,51,1953.73
+S1414,West,Home & Garden,115,7047.0
+S1415,West,Clothing,80,3294.08
+S1416,South,Electronics,94,11604.8
+S1417,West,Electronics,80,9293.07
+S1418,West,Home & Garden,51,2572.21
+S1419,West,Beauty,98,2458.74
+S1420,South,Electronics,70,7704.22
+S1421,South,Home & Garden,80,4348.64
+S1422,North,Clothing,76,2391.0
+S1423,North,Electronics,104,12321.29
+S1424,West,Home & Garden,96,6144.74
+S1425,South,Home & Garden,91,5534.92
+S1426,South,Beauty,75,1590.38
+S1427,West,Clothing,64,3064.6
+S1428,North,Clothing,64,3182.26
+S1429,South,Clothing,89,3510.29
+S1430,North,Home & Garden,51,2842.83
+S1431,West,Home & Garden,45,2411.98
+S1432,South,Clothing,52,1700.85
+S1433,West,Home & Garden,23,1445.1
+S1434,East,Beauty,62,2144.32
+S1435,West,Home & Garden,76,5264.95
+S1436,West,Home & Garden,96,5518.96
+S1437,West,Electronics,98,12527.01
+S1438,South,Beauty,80,2317.66
+S1439,West,Electronics,73,9368.99
+S1440,West,Clothing,85,3191.74
+S1441,East,Clothing,108,3413.34
+S1442,South,Beauty,88,3456.89
+S1443,East,Home & Garden,63,4251.94
+S1444,West,Electronics,67,7548.21
+S1445,South,Beauty,93,3460.13
+S1446,East,Electronics,84,9439.3
+S1447,West,Home & Garden,54,3772.27
+S1448,North,Electronics,103,12139.7
+S1449,East,Beauty,81,1826.3
+S1450,South,Home & Garden,66,4591.92
+S1451,East,Home & Garden,113,7536.7
+S1452,East,Beauty,102,3582.61
+S1453,East,Home & Garden,83,5774.29
+S1454,North,Electronics,69,8228.95
+S1455,South,Clothing,110,4882.01
+S1456,South,Beauty,56,1595.02
+S1457,South,Electronics,82,9642.01
+S1458,West,Home & Garden,28,1528.61
+S1459,South,Clothing,93,3646.76
+S1460,South,Electronics,68,7690.97
+S1461,North,Beauty,85,2020.42
+S1462,West,Home & Garden,68,4590.28
+S1463,West,Beauty,57,2012.66
+S1464,East,Electronics,79,8740.9
+S1465,West,Clothing,59,2549.03
+S1466,West,Electronics,93,11373.76
+S1467,North,Electronics,85,10941.6
+S1468,South,Home & Garden,15,1016.71
+S1469,West,Beauty,102,2530.96
+S1470,West,Electronics,82,9130.36
+S1471,North,Electronics,90,10969.1
+S1472,West,Clothing,89,3464.67
+S1473,West,Clothing,85,3692.44
+S1474,North,Beauty,68,2546.21
+S1475,East,Beauty,95,2364.99
+S1476,East,Home & Garden,72,3663.7
+S1477,West,Beauty,63,1813.09
+S1478,West,Clothing,54,2202.94
+S1479,South,Beauty,82,2877.19
+S1480,West,Electronics,68,8535.45
+S1481,South,Beauty,31,706.88
+S1482,East,Beauty,58,2312.44
+S1483,West,Home & Garden,60,3280.99
+S1484,West,Electronics,52,6673.05
+S1485,North,Home & Garden,47,2891.54
+S1486,West,Clothing,102,4238.05
+S1487,East,Beauty,85,3013.31
+S1488,West,Beauty,55,2000.22
+S1489,South,Clothing,88,3056.95
+S1490,West,Home & Garden,74,4996.86
+S1491,South,Electronics,63,8171.98
+S1492,North,Home & Garden,113,6828.03
+S1493,West,Home & Garden,82,4778.24
+S1494,North,Electronics,65,7507.7
+S1495,North,Beauty,55,1712.39
+S1496,West,Home & Garden,85,5255.83
+S1497,South,Clothing,85,3799.86
+S1498,West,Electronics,63,7150.67
+S1499,South,Beauty,60,2014.5
